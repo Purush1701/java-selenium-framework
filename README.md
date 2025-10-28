@@ -1,5 +1,10 @@
 # Selenium Framework with Page Object Model
 
+[![Selenium](https://img.shields.io/badge/selenium-4.x-green.svg)](https://www.selenium.dev/)
+[![Java](https://img.shields.io/badge/java-21-orange.svg)](https://www.oracle.com/java/)
+[![Maven](https://img.shields.io/badge/maven-3.6%2B-blue.svg)](https://maven.apache.org/)
+[![TestNG](https://img.shields.io/badge/testng-7.x-red.svg)](https://testng.org/)
+
 A streamlined Java-based Selenium automation framework built with Maven, TestNG, and ExtentReports. Features industry-standard test cases using **SauceDemo** - a fully-featured e-commerce application designed for testing.
 
 ## ✨ Features
