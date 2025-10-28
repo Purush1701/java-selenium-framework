@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SauceDemo Test Suite" verbose="3" parallel="none">
+    
+    <!-- Login Functionality Tests -->
+    <test name="Login Tests">
+        <classes>
+            <class name="com.framework.tests.LoginTest"/>
+        </classes>
+    </test>
+    
+    <!-- Product Functionality Tests -->
+    <test name="Product Tests">
+        <classes>
+            <class name="com.framework.tests.ProductTest"/>
+        </classes>
+    </test>
+    
+    <!-- Shopping Cart Tests -->
+    <test name="Cart Tests">
+        <classes>
+            <class name="com.framework.tests.CartTest"/>
+        </classes>
+    </test>
+</suite>
